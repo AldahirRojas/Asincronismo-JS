@@ -1,0 +1,21 @@
+{
+  "name": "c-asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Aldahir Rojas aldahir.rojas1@utp.edu.co",
+  "license": "MIT",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "node": "^18.13.0",
+    "node-fetch": "^3.3.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module"
+}
